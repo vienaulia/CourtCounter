@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="tim1">TEAM VIEN</string>
+    <string name="tim2">TEAM AR</string>
+    <string name="nol">0</string>
+    <string name="tambah3">+3 POINTS</string>
+    <string name="tambah2">+2 POINTS</string>
+    <string name="free">FREE THROW</string>
+</resources>
